@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'DjangoITC';
+    src: url("/static/django-itc-std.otf");
+}
+
 h1 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: DjangoITC, fantasy;
 }
